@@ -1,0 +1,22 @@
+{
+    "name": "tamon-skills",
+    "owner": {
+        "name": "Tamon Kimura",
+        "email": "hidariutiwa22@gmail.com"
+    },
+    "metadata": {
+        "description": "tamon's skills",
+        "version": "1.0.0"
+    },
+    "plugins": [
+        {
+            "name": "girls-dev-team",
+            "description": "A development team made up of girls",
+            "source": "./",
+            "strict": false,
+            "skills": [
+                "./skills/team-dev"
+            ]
+        }
+    ]
+}
