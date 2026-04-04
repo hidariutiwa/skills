@@ -1,5 +1,5 @@
 ---
-name: team-dev
+name: girls-dev-team
 description: 機能開発の要望に対してAgent Teamをアサインし並列で実装する。ユーザーが新機能の実装を依頼した際に使用。プロジェクトの種類を問わず、あらゆるコードベースに対応する汎用チーム開発スキル。新機能の追加、リファクタリング、バグ修正など、複数ファイルにまたがる開発タスクに適している。
 argument-hint: <機能の説明>
 user-invocable: true
