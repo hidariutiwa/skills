@@ -15,7 +15,9 @@
             "source": "./",
             "strict": false,
             "skills": [
-                "./skills/team-dev"
+                "./skills/team-dev",
+                "./skills/meeting-analysis",
+                "./skills/task-execution"
             ]
         }
     ]
